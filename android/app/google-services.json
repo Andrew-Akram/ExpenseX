@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "779591251386",
+    "project_id": "expensex-63580",
+    "storage_bucket": "expensex-63580.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779591251386:android:8b690c792ad6bddc4a1983",
+        "android_client_info": {
+          "package_name": "com.example.training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779591251386-c7idkaun86ohbaa9fjf1u99kv1h3tgs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.training",
+            "certificate_hash": "d0ff1c16e078588d109b0d4f9c5b1f9d7ffdf8ab"
+          }
+        },
+        {
+          "client_id": "779591251386-atqgpkuqv3hp1s7oa2nauht8mv1g47h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYygO1qOBlmQQA49hgWL0Acc-7Wcm1g2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779591251386-atqgpkuqv3hp1s7oa2nauht8mv1g47h6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779591251386-7hgmip5dlc9rabgjnv6ikuceap85cohi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.training"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
